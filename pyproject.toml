@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "idle-farmer-game"
-version = "0.1.0"
+version = "0.1.1"
 description = "An idle farming game built with tkinter and pygame"
 readme = "README.md"
 requires-python = ">=3.10"
